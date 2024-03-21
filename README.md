@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Charles Frederick S. Mamana</h1>
+<h1 align="center">Hi 👋, I'm John Charles Frederick S. Mamanao</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 <p align="center">Dreaming to become a fullstack developer</p>
 
