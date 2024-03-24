@@ -5,7 +5,8 @@
 
 <p align="center"> - 💬 Ask me about **Anthing** </p>
 
-<p align="center"> - 📫 How to reach me **beastnectus@gmail.com** </p>
+<p align="center"> - 📫 How to reach me </p>
+<p align="center">**beastnectus@gmail.com**</p>
 
 <p align="center"> - 📄 Know about my experiences [https://johnmamanao.com/#/resume](https://johnmamanao.com/#/resume)</p>
 
