@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm John Charles Frederick S. Mamanao</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<p align="center"> - 📫 How to reach me **beastnectus@gmail.com**</p>
+<p align="center"> - 📫 How to reach me <strong>[beastnectus@gmail.com]</strong></p>
 
 <p align="center"> - 👨‍💻 All of my projects are available at <a href="https://johnmamanao.com/#/projects](https://johnmamanao.com/#/projects">Project List</a> </p>
 
