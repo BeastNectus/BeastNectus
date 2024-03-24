@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm John Charles Frederick S. Mamanao</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">Front-End Developer | Back-End Developer | FullStack Developer</h3>
 
 <p align="center"> - 📫 How to reach me <strong>[beastnectus@gmail.com]</strong></p>
 
