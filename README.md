@@ -2,7 +2,7 @@
 <h3 align="left">Front-End Developer | Back-End Developer | FullStack Developer</h3>
 
 
-[![trophy](https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=beastnectus&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=beastnectus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="left"> - 📫 How to reach me <strong>[beastnectus@gmail.com]</strong></p>
