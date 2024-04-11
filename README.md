@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm John Charles Frederick S. Mamanao</h1>
 <h3 align="left">A rockstar full-stack Web Developer from PH</h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&base=1000)
+![](https://komarev.com/ghpvc/?username=BeastNectus&color=brightgreen&base=1000)
 
 [![trophy](https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=beastnectus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
