@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm John Charles Frederick S. Mamanao</h1>
-<h3 align="left">FullStack Developer</h3>
+<h3 align="left">A rockstar full-stack Web Developer from PH</h3>
 
 
 [![trophy](https://hacked-github-stat-trophies.flyn-nick.vercel.app/?username=beastnectus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
