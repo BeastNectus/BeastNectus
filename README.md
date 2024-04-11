@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm John Charles Frederick S. Mamanao</h1>
 <h3 align="center">Front-End Developer | Back-End Developer | FullStack Developer</h3>
 
+<a href="https://github-profile-trophy.vercel.app/?username=BeastNectus&theme=juicyfresh"></a>
+
 <p align="center"> - 📫 How to reach me <strong>[beastnectus@gmail.com]</strong></p>
 
 <p align="center"> - 👨‍💻 All of my projects are available at <a href="https://johnmamanao.com/#/projects](https://johnmamanao.com/#/projects">Project List</a> </p>
