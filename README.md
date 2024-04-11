@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm John Charles Frederick S. Mamanao</h1>
-<h3 align="center">Front-End Developer | Back-End Developer | FullStack Developer</h3>
+<h1 align="left">Hi, I'm John Charles Frederick S. Mamanao</h1>
+<h3 align="left">Front-End Developer | Back-End Developer | FullStack Developer</h3>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=BeastNectus&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
