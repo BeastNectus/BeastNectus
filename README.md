@@ -24,7 +24,7 @@ When I’m not coding, you’ll find me:
 ## ⚡ Featured Projects
 🔹 **[AutoFlow](https://www.johnmamanao.com/projects/autoflow)** – A no-code automation platform with workflow builders, dynamic tables, and analytics dashboards. Built with Next.js, Zustand, Laravel, and Docker.  
 🔹 **Sales & Inventory System** – Streamlined order processing & reduced errors by 70% (Laravel + MySQL).  
-🔹 **Tourism Game** – A 3D immersive Unreal Engine experience promoting Davao City tourism.  
+🔹 **DaVista** – A 3D immersive Unreal Engine experience promoting Davao City tourism.  
 
 ---
 
