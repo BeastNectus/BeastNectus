@@ -1,4 +1,3 @@
-<div align="center">
 
 # 👋 Hi, I'm John Mamanao  
 ### Full-Stack Developer | UI/UX Enthusiast | Problem Solver  
@@ -53,4 +52,3 @@ When I’m not coding, you’ll find me:
 
 ✨ *“I don’t just write code — I build solutions that grow with users.”*  
 
-</div>
